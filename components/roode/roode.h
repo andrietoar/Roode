@@ -7,7 +7,7 @@
 #include "esphome/core/application.h"
 #include "esphome/core/component.h"
 #include "esphome/core/log.h"
-#include "../../vl53l1x/vl53l1x.h"
+#include "/vl53l1x/vl53l1x.h"
 #include "orientation.h"
 #include "zone.h"
 
