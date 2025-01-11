@@ -4,7 +4,7 @@
 #include "esphome/core/application.h"
 #include "esphome/core/log.h"
 #include "esphome/core/optional.h"
-#include "../../vl53l1x/vl53l1x.h"
+#include "../vl53l1x/vl53l1x.h"
 #include "orientation.h"
 
 using TofSensor = esphome::vl53l1x::VL53L1X;
